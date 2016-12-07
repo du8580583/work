@@ -1,4 +1,9 @@
 hiohfoihaowihf
 fjowjfojwfjojfowjo
 
-master分支修改
+<<<<<<< HEAD
+master1号分支修改
+=======
+
+master1号分支修改
+>>>>>>> 1
